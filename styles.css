@@ -15,6 +15,13 @@ table, tr, th, td {
     
 }
 
+.left {
+    border-right: 0px;
+}
+
+.right {
+    border-left: 0px;
+
 th{
     background-color: rgb(145, 0, 158);
 }
